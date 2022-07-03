@@ -5,4 +5,42 @@
     }
     /* Rectangle 28 */
     
+    .rightpic {
+        float: right;
+        margin: 0 0 5px 5px;
+    }
+    a {
+        color: blue;
+        background: white;
+        padding: 2px;
+        transition: 1s linear;
+    }
+    a:hover {
+        color: white;
+        background: blue;
+    }
+    .textcols {
+        white-space: nowrap;
+    }
+    
+    .textcols-item {
+        white-space: normal;
+        display: inline-block;
+        width:48%;
+        vertical-align: top;
+        background: #fff2e1;
+    }
+    .textcols .textcols-item:first-child {
+        margin-right: 4%;
+    }
+    .btn {
+        background: #f0973b;
+        color: white;
+        border-color: #f0973b;
+        
+    }
+     
+    a {
+        color:#207f60 ;
+    }
     
