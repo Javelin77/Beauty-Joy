@@ -3,7 +3,32 @@
     font-size: 64px
     font-weight 700;
     }
+
+    h1 {
+        height: 84px;
+        width: 321px;
+        left: 325px;
+        top: 922px;
+        border-radius: nullpx;
+
+    }
+    /* Услуги */
+
+    h1 {
+        color: #2C2C2C;
+    }
+
+
     /* Rectangle 28 */
+    .img {
+        position: absolute;
+        width: 400px;
+        height: 527px;
+        left: 996px;
+        top: 1159px;
+
+        background: url(candice-picard-1dwRuFgDr0o-unsplash.jpg);
+    }
     
     .rightpic {
         float: right;
@@ -43,4 +68,31 @@
     a {
         color:#207f60 ;
     }
+    p {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+    image {
+    position: absolute;
+    width: 400px;
+    height: 527px;
+    left: 996px;
+    top: 1159px;
+    }
+    
+    .hr {
+        position: absolute;
+        width: 380px;
+        height: 0px;
+        left: 120px;
+        top: 1038px;
+        
+        border: 2px solid #207F60;
+        
+    }
+    
     
